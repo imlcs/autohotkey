@@ -51,8 +51,8 @@ Return
 
 ^p::Send {Backspace}
 
-Control::Capslock ; 把Control替换为Capslock 
-Capslock::Control ; 把Capslock替换为Control
+; Control::Capslock ; 把Control替换为Capslock 
+; Capslock::Control ; 把Capslock替换为Control
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 ;;Win+Esc 关闭窗口
